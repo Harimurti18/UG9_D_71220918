@@ -1,0 +1,8 @@
+nama = float(input("Masukan nama Anda : "))
+print (nama)
+mata = float(input("Masukan mata kuliah : "))
+print (mata)
+grup = float(input("Masukan grup : "))
+print (grup)
+print ("Hallo: Charllote, cassandra")
+print ("")
